@@ -15,9 +15,9 @@
     "vue-router": "^4.4.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.5",
+    "@vitejs/plugin-vue": "^5.2.1",
     "axios": "^1.7.4",
     "sass": "^1.77.6",
-    "vite": "^5.4.14"
+    "vite": "^6.2.0"
   }
 }
